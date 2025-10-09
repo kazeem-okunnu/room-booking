@@ -11,7 +11,7 @@ Create, edit, and delete room listings
 
 Book and manage reservations
 
-Search by location, price, and availability
+Search by availability
 
 Responsive design for desktop and mobile
 
@@ -21,10 +21,10 @@ Real-time updates and user-friendly interface
 
 🧠 Tech Stack
 
-Frontend: Next.js, React.js, Tailwind CSS, Redux
-Backend: Node.js, Express.js (or Convex if you used it)
-Database: MongoDB / Convex / Firebase (whichever applies)
-Authentication: Clerk / Firebase Auth / Custom
+Frontend: Next.js, React.js, Tailwind CSS,
+Backend: Appwrite
+Database: Appwrite
+Authentication: Appwrite
 Hosting: Vercel
 
 🧩 What I Learned
